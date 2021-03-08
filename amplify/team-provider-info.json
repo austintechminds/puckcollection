@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-puckcollection-dev-184905-authRole",
+      "UnauthRoleArn": "arn:aws:iam::733033472328:role/amplify-puckcollection-dev-184905-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::733033472328:role/amplify-puckcollection-dev-184905-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-puckcollection-dev-184905-deployment",
+      "UnauthRoleName": "amplify-puckcollection-dev-184905-unauthRole",
+      "StackName": "amplify-puckcollection-dev-184905",
+      "StackId": "arn:aws:cloudformation:us-east-2:733033472328:stack/amplify-puckcollection-dev-184905/159c2500-7fa8-11eb-b844-0af5f055b3fc",
+      "AmplifyAppId": "dg0rqjfatl40n"
+    }
+  }
+}
